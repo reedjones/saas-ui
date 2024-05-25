@@ -1,0 +1,17 @@
+import{j as r}from"./chunk-ZJJGQIVY-3d316dd5.js";import{E as g,G as v,H as O}from"./index-43bf6e0e.js";import{P as o}from"./password-input-a2c4f82c.js";import{C as S}from"./chunk-5MKCW436-7cead567.js";import{F as m}from"./chunk-DFWC5MHP-a7a26ffe.js";import{F as d}from"./chunk-H46NUPBZ-200868d1.js";import{I as p}from"./chunk-2GBDXOMA-c3ee5274.js";import{b as y}from"./chunk-2ZHRCML3-0a67530c.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iconBase-9679482c.js";import"./input-right-button-06426f1d.js";import"./chunk-UVUR7MCU-4e62fe64.js";import"./chunk-T6ZDZOLO-8d3f3a64.js";import"./index-7abe7895.js";import"./chunk-5PH6ULNP-89f88b5a.js";import"./emotion-react.browser.esm-b737cf90.js";import"./hoist-non-react-statics.cjs-3f8ebaa8.js";import"./index-17e33fe9.js";import"./icons-d10032f4.js";import"./chunk-6CVSDS6C-58dff80d.js";import"./chunk-56K2BSAJ-a2503b05.js";import"./index-e1b4ee4c.js";import"./chunk-R3DH46PF-f0689d26.js";const or={title:"Components/Forms/PasswordInput",decorators:[E=>r.jsx(S,{mt:"40px",children:r.jsx(E,{})})]},s=()=>r.jsxs(m,{children:[r.jsx(d,{children:"Password"}),r.jsx(o,{name:"password",placeholder:"Password"})]}),a=()=>r.jsx(r.Fragment,{children:r.jsx(o,{name:"password",placeholder:"Password",viewIcon:r.jsx(p,{as:g}),viewOffIcon:r.jsx(p,{as:v})})}),e=()=>r.jsxs(m,{children:[r.jsx(d,{children:"Password"}),r.jsx(o,{name:"password",variant:"flushed"})]}),t=()=>r.jsxs(m,{children:[r.jsx(d,{children:"Password"}),r.jsx(o,{name:"password",width:"200px"})]}),n=()=>r.jsxs(m,{children:[r.jsx(d,{children:"Password"}),r.jsx(o,{name:"password",leftAddon:r.jsx(y,{children:r.jsx(O,{})})})]});var i,c,l;s.parameters={...s.parameters,docs:{...(i=s.parameters)==null?void 0:i.docs,source:{originalSource:`() => <FormControl>\r
+    <FormLabel>Password</FormLabel>\r
+    <PasswordInput name="password" placeholder="Password" />\r
+  </FormControl>`,...(l=(c=s.parameters)==null?void 0:c.docs)==null?void 0:l.source}}};var w,u,F;a.parameters={...a.parameters,docs:{...(w=a.parameters)==null?void 0:w.docs,source:{originalSource:`() => <>\r
+    <PasswordInput name="password" placeholder="Password" viewIcon={<Icon as={FiEye} />} viewOffIcon={<Icon as={FiEyeOff} />} />\r
+  </>`,...(F=(u=a.parameters)==null?void 0:u.docs)==null?void 0:F.source}}};var x,f,j;e.parameters={...e.parameters,docs:{...(x=e.parameters)==null?void 0:x.docs,source:{originalSource:`() => <FormControl>\r
+    <FormLabel>Password</FormLabel>\r
+    <PasswordInput name="password" variant="flushed" />\r
+  </FormControl>`,...(j=(f=e.parameters)==null?void 0:f.docs)==null?void 0:j.source}}};var h,I,P;t.parameters={...t.parameters,docs:{...(h=t.parameters)==null?void 0:h.docs,source:{originalSource:`() => <FormControl>\r
+    <FormLabel>Password</FormLabel>\r
+    <PasswordInput name="password" width="200px" />\r
+  </FormControl>`,...(P=(I=t.parameters)==null?void 0:I.docs)==null?void 0:P.source}}};var L,C,b;n.parameters={...n.parameters,docs:{...(L=n.parameters)==null?void 0:L.docs,source:{originalSource:`() => <FormControl>\r
+    <FormLabel>Password</FormLabel>\r
+    <PasswordInput name="password" leftAddon={<InputLeftElement>\r
+          <FiLock />\r
+        </InputLeftElement>} />\r
+  </FormControl>`,...(b=(C=n.parameters)==null?void 0:C.docs)==null?void 0:b.source}}};const sr=["Basic","ReactIcons","Variant","CustomWidth","LeftAddon"];export{s as Basic,t as CustomWidth,n as LeftAddon,a as ReactIcons,e as Variant,sr as __namedExportsOrder,or as default};

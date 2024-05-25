@@ -1,6 +1,6 @@
 import SaasUIGlyph from '@/components/saas-ui-glyph'
 import Logo from '../components/saas-ui'
-const baseUrl = 'https://github.com/saas-js/saas-ui'
+const baseUrl = 'https://github.com/reedjones/saas-ui'
 
 const siteConfig = {
   logo: Logo,

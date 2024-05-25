@@ -89,7 +89,7 @@ https://www.saas-ui.dev/docs/overlay/modals-manager
 
 ## Source
 
-https://github.com/saas-js/saas-ui/tree/next/packages/saas-ui-modals
+https://github.com/reedjones/saas-ui/tree/next/packages/saas-ui-modals
 
 ## License
 

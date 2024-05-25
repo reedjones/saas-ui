@@ -1,0 +1,1 @@
+function o(n){return n!=null&&typeof n=="object"&&"nodeType"in n&&n.nodeType===Node.ELEMENT_NODE}function r(n){var e;return o(n)&&(e=n.ownerDocument)!=null?e:document}function t(){return!!(typeof window<"u"&&window.document&&window.document.createElement)}var u=t(),a=n=>n?"":void 0,c=(...n)=>n.filter(Boolean).join(" ");export{c,a as d,r as g,u as i};

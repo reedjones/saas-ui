@@ -31,11 +31,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/saas-js/saas-ui.git",
+    "url": "https://github.com/reedjones/saas-ui.git",
     "directory": "examples/nextjs-typescript"
   },
   "bugs": {
-    "url": "https://github.com/saas-js/saas-ui/issues"
+    "url": "https://github.com/reedjones/saas-ui/issues"
   },
   "license": "MIT"
 }

@@ -584,7 +584,7 @@ export async function getStaticProps() {
         title: 'Support us with your GitHub star 🤩',
         description:
           '<img src="https://img.shields.io/github/stars/saas-js/saas-ui.svg?style=social&label=Star" />',
-        href: 'https://github.com/saas-js/saas-ui',
+        href: 'https://github.com/reedjones/saas-ui',
         action: false,
       },
       header: {

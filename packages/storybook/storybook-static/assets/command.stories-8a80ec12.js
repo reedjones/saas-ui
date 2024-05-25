@@ -1,0 +1,13 @@
+import{j as o,e as g,b as x}from"./chunk-ZJJGQIVY-3d316dd5.js";import{c as y}from"./chunk-O3SWHQEE-d6839529.js";import{K as b}from"./chunk-EBIU6VW7-b7ac467c.js";import{C as B}from"./chunk-FAWTVNS3-f4d68a92.js";import{V as S}from"./chunk-NTCQBYKE-6d14b748.js";import{T as I}from"./chunk-TK6VMDNP-102da1be.js";import{B as T}from"./chunk-UVUR7MCU-4e62fe64.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./chunk-ZHMYA64R-c4ed5002.js";import"./chunk-G72KV6MB-be2d631b.js";import"./index-e1b4ee4c.js";import"./index-660fa4d3.js";import"./index-c4a63d44.js";import"./index-17e33fe9.js";import"./index-30c8b35e.js";import"./index-938a7d6c.js";import"./chunk-34PD6CUK-c14fe2a1.js";import"./index-7abe7895.js";import"./index-3e7aa64e.js";import"./index-add592e3.js";import"./motion-56319619.js";import"./index-c6b2a32b.js";import"./chunk-T6ZDZOLO-8d3f3a64.js";import"./chunk-5PH6ULNP-89f88b5a.js";import"./emotion-react.browser.esm-b737cf90.js";import"./hoist-non-react-statics.cjs-3f8ebaa8.js";const _=({children:r})=>typeof r!="string"?o.jsx(o.Fragment,{children:r}):["then","or","+"].includes(r)?o.jsx(x.span,{children:r}):o.jsx(b,{children:r}),n=r=>{const{children:m,className:u,...h}=r;if(typeof m!="string")return o.jsx(o.Fragment,{children:m});const j=m.split(/\s|\+/),C=g("SuiCommand"),f={"& > *:not(style) ~ *:not(style)":{marginEnd:1},color:"muted",...C};return o.jsx(x.span,{className:y("sui-command",u),__css:f,...h,children:j.map(e=>o.jsx(_,{children:e},e))})},oo={title:"Components/Data Display/Command",decorators:[r=>o.jsx(B,{height:"100%",children:o.jsx(r,{})})]},t={render:()=>o.jsxs(S,{children:[o.jsx(n,{children:"shift+X"}),o.jsx(n,{children:"A then B"}),o.jsx(n,{children:"alt or option"})]})},s={render:()=>o.jsx(I,{label:o.jsxs(o.Fragment,{children:["Inbox ",o.jsx(n,{children:"G then I"})]}),children:o.jsx(T,{children:"Inbox"})})};var a,i,p;t.parameters={...t.parameters,docs:{...(a=t.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  render: () => <VStack>\r
+      <Command>shift+X</Command>\r
+      <Command>A then B</Command>\r
+      <Command>alt or option</Command>\r
+    </VStack>
+}`,...(p=(i=t.parameters)==null?void 0:i.docs)==null?void 0:p.source}}};var c,d,l;s.parameters={...s.parameters,docs:{...(c=s.parameters)==null?void 0:c.docs,source:{originalSource:`{
+  render: () => <Tooltip label={<>\r
+          Inbox <Command>G then I</Command>\r
+        </>}>\r
+      <Button>Inbox</Button>\r
+    </Tooltip>
+}`,...(l=(d=s.parameters)==null?void 0:d.docs)==null?void 0:l.source}}};const ro=["Basic","TooltipCommand"];export{t as Basic,s as TooltipCommand,ro as __namedExportsOrder,oo as default};

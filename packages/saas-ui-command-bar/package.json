@@ -53,7 +53,7 @@
   "homepage": "https://saas-ui.dev/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/saas-js/saas-ui",
+    "url": "https://github.com/reedjones/saas-ui",
     "directory": "packages/saas-ui-command-bar"
   },
   "keywords": [

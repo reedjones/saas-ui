@@ -18,7 +18,7 @@ https://www.saas-ui.dev/docs/theming/saas-ui-theme
 
 ## Source
 
-https://github.com/saas-js/saas-ui/tree/next/packages/saas-ui-theme
+https://github.com/reedjones/saas-ui/tree/next/packages/saas-ui-theme
 
 ## License
 

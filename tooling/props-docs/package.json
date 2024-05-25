@@ -8,7 +8,7 @@
   ],
   "sideEffects": false,
   "author": "Tim Kolberger <tim@kolberger.eu>",
-  "homepage": "https://github.com/saas-js/saas-ui#readme",
+  "homepage": "https://github.com/reedjones/saas-ui#readme",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saas-js/saas-ui.git"
+    "url": "git+https://github.com/reedjones/saas-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/saas-js/saas-ui/issues"
+    "url": "https://github.com/reedjones/saas-ui/issues"
   },
   "scripts": {
     "prebuild": "rimraf dist",

@@ -170,7 +170,7 @@ const Header = () => {
               icon={<FaGithub size="14" />}
               borderRadius="md"
               as={Link}
-              href="https://github.com/saas-js/saas-ui"
+              href="https://github.com/reedjones/saas-ui"
             />
           </Tooltip>
 

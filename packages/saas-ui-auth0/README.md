@@ -18,7 +18,7 @@ https://saas-ui.dev/docs/core/integrations/auth0
 
 ## Source
 
-https://github.com/saas-js/saas-ui/tree/next/packages/saas-ui-auth0
+https://github.com/reedjones/saas-ui/tree/next/packages/saas-ui-auth0
 
 ## License
 

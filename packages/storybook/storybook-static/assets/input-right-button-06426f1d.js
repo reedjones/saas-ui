@@ -1,0 +1,1 @@
+import{f as e,j as t}from"./chunk-ZJJGQIVY-3d316dd5.js";import{B as i}from"./chunk-UVUR7MCU-4e62fe64.js";import{a as s}from"./chunk-2ZHRCML3-0a67530c.js";const o=e((n,r)=>t.jsx(s,{w:"auto",px:"1",py:"1",alignItems:"stretch",children:t.jsx(i,{ref:r,height:"auto",...n})}));o.id="InputRightElement";o.displayName="InputRightButton";export{o as I};

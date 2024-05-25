@@ -52,7 +52,7 @@ https://saas-ui.dev/docs/core/theming/saas-ui-theme
 
 ## Source
 
-https://github.com/saas-js/saas-ui/tree/main/packages/saas-ui-theme-glass
+https://github.com/reedjones/saas-ui/tree/main/packages/saas-ui-theme-glass
 
 ## License
 

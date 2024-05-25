@@ -42,7 +42,7 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.saas-ui.dev"
+    "access": "public"
   },
   "scripts": {
     "bundle": "yarn pack --out ../dist/%s-%v.tgz",

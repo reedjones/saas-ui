@@ -1,0 +1,1 @@
+import{f as i,j as a}from"./chunk-ZJJGQIVY-3d316dd5.js";import{u as e}from"./use-link-0575c38f.js";import{L as m}from"./chunk-K7XRJ7NL-9d8597a2.js";const f=i((s,o)=>{const r=e(),{href:n,...t}=s;return a.jsx(m,{as:r,ref:o,href:n,...t})});f.displayName="Link";export{f as L};

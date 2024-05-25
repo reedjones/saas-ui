@@ -167,7 +167,7 @@ export function RedeemForm(props) {
           <Text>
             Your Github account <strong>{data.githubAccount}</strong> has been
             added to the private{' '}
-            <Link href="https://github.com/saas-js/saas-ui-pro" target="_blank">
+            <Link href="https://github.com/reedjones/saas-ui-pro" target="_blank">
               Github repo
             </Link>
             .
@@ -196,7 +196,7 @@ export function RedeemForm(props) {
 
           <ButtonLink
             variant="ghost"
-            href="https://github.com/saas-js/saas-ui-pro"
+            href="https://github.com/reedjones/saas-ui-pro"
             leftIcon={<FaGithub />}
             target="_blank"
           >

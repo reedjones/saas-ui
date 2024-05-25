@@ -1,0 +1,1 @@
+import{i as f}from"./chunk-O3SWHQEE-d6839529.js";import{r}from"./index-76fb7be0.js";var o=f?r.useLayoutEffect:r.useEffect;function n(t,u=[]){const e=r.useRef(t);return o(()=>{e.current=t}),r.useCallback((...s)=>{var a;return(a=e.current)==null?void 0:a.call(e,...s)},u)}export{n as u};

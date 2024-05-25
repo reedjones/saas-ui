@@ -203,8 +203,8 @@ Follow the instructions in the documentation to migrate your code.
 https://saas-ui.dev/docs/components/layout/sidebar
 
 New examples are available here:
-https://github.com/saas-js/saas-ui-pro/blob/main/packages/app-features/core/components/sidebar/sidebar.tsx
-https://github.com/saas-js/saas-ui/blob/main/packages/saas-ui-sidebar/stories/sidebar.stories.tsx
+https://github.com/reedjones/saas-ui-pro/blob/main/packages/app-features/core/components/sidebar/sidebar.tsx
+https://github.com/reedjones/saas-ui/blob/main/packages/saas-ui-sidebar/stories/sidebar.stories.tsx
 
 ## 0.9.0
 

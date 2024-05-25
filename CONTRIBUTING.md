@@ -9,7 +9,7 @@ prepare your contribution.
 The following steps will get you up and running to contribute to Saas UI:
 
 1. Fork the repo (click the <kbd>Fork</kbd> button at the top right of
-   [this page](https://github.com/saas-js/saas-ui))
+   [this page](https://github.com/reedjones/saas-ui))
 
 2. Clone your fork locally
 
@@ -116,7 +116,7 @@ https://www.conventionalcommits.org/ or check out the
    commit type. `scope` is just a short id that describes the scope of work.
 
 3. Make and commit your changes following the
-   [commit convention](https://github.com/saas-js/saas-ui/blob/main/CONTRIBUTING.md#commit-convention).
+   [commit convention](https://github.com/reedjones/saas-ui/blob/main/CONTRIBUTING.md#commit-convention).
    As you develop, you can run `yarn workspace <module> build` and
    `yarn workspace <module> test` to make sure everything works as expected. Please
    note that you might have to run `yarn` first in order to build all

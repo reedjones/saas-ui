@@ -1,0 +1,1 @@
+import{r as n}from"./index-76fb7be0.js";const p=(s,r)=>n.Children.map(r,a=>{if(n.isValidElement(a)&&a.props.name){let e=a.props.name;return e.includes(".")?e=e.replace(/^.*\.(.*)/,"$1"):e.includes(".$")&&(e=e.replace(/^.*\.\$(.*)/,"$1")),n.cloneElement(a,{...a.props,name:`${s}.${e}`})}return a}),m=s=>s.map(r=>typeof r=="string"?{label:r,value:r}:r);export{m as a,p as m};

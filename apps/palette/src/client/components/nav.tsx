@@ -24,7 +24,7 @@ export const Nav = () => {
 
       <IconButton
         as="a"
-        href="https://github.com/saas-js/saas-ui"
+        href="https://github.com/reedjones/saas-ui"
         icon={<FaGithub />}
         variant="ghost"
         aria-label="Star on Github"

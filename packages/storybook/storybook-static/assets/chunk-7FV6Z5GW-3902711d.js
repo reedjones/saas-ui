@@ -1,0 +1,1 @@
+import{m}from"./chunk-LIR5QAZY-d65d2f5f.js";import{H as s}from"./chunk-ZJJGQIVY-3d316dd5.js";function l({colorScheme:o,components:e}){return t=>{let r=Object.keys(t.components||{});return Array.isArray(e)?r=e:s(e)&&(r=Object.keys(e)),m(t,{components:Object.fromEntries(r.map(i=>[i,{defaultProps:{colorScheme:o}}]))})}}export{l as w};

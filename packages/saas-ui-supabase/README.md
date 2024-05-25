@@ -18,7 +18,7 @@ https://www.saas-ui.dev/docs/authentication/auth-provider
 
 ## Source
 
-https://github.com/saas-js/saas-ui/tree/next/packages/saas-ui-supabase
+https://github.com/reedjones/saas-ui/tree/next/packages/saas-ui-supabase
 
 ## License
 
