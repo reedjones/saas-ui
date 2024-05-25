@@ -1,1 +1,0 @@
-import{j as x}from"./chunk-ZJJGQIVY-3d316dd5.js";import{f as e}from"./icons-d10032f4.js";const a=e({displayName:"CalendarIcon",path:x.jsxs("g",{children:[x.jsx("rect",{x:"3",y:"4",width:"18",height:"18",rx:"2",ry:"2"}),x.jsx("line",{x1:"16",y1:"2",x2:"16",y2:"6"}),x.jsx("line",{x1:"8",y1:"2",x2:"8",y2:"6"}),x.jsx("line",{x1:"3",y1:"10",x2:"21",y2:"10"})]})});export{a as C};

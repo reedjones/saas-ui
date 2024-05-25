@@ -1,1 +1,0 @@
-import{j as o,b as s}from"./chunk-ZJJGQIVY-3d316dd5.js";import{u as r}from"./saas-provider-99e9b835.js";const t=n=>o.jsx(s.a,{...n});function u(){const n=r();return n!=null&&n.linkComponent?n.linkComponent:t}export{u};
